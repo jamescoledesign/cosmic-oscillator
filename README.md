@@ -1,10 +1,9 @@
 # Cosmic Oscillator
 
-This web application creates a [sonification of astronomical imagery](https://science.nasa.gov/mission/hubble/multimedia/sonifications) in the browser using computer vision from <a href='https://opencv.org/'> OpenCV</a> and synthesizers from <a href='https://tonejs.github.io/'>ToneJS</a>.</p>
+This web application creates a [sonification of astronomical imagery](https://science.nasa.gov/mission/hubble/multimedia/sonifications) in the browser using computer vision from [OpenCV](https://opencv.org/) and synthesizers from [ToneJS](https://tonejs.github.io/). It was created by [James Cole](https://www.linkedin.com/in/jcoledesign/) for the [2023 NASA Space Apps Challenge](https://www.spaceappschallenge.org/2023/find-a-team/oscillate/?tab=project).
 
 ### Click the link below to try it out:  
-Working concept: [https://jamescoledesign.github.io/cosmic-oscillator/](https://jamescoledesign.github.io/cosmic-oscillator/)
-
+[https://jamescoledesign.github.io/cosmic-oscillator/](https://jamescoledesign.github.io/cosmic-oscillator/)  
 
 ![Cosmic Oscillator User Interface](./src/images/co-screenshot.png)
 
@@ -35,7 +34,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
----
-
-This was created by James Cole for the [2023 NASA Space Apps Challenge](https://www.spaceappschallenge.org/2023/find-a-team/oscillate/?tab=project)
