@@ -1,6 +1,9 @@
-## Cosmic Oscillator
+# Cosmic Oscillator
 
 Sonification of astronomical imagery in the browser using computer vision from <a href='https://opencv.org/'> OpenCV</a> and synthesizers from <a href='https://tonejs.github.io/'>ToneJS</a>.</p>
+
+## [Click here](https://jamescoledesign.github.io/cosmic-oscillator/) to try it out.
+
 
 ## Available Scripts
 
