@@ -2,7 +2,7 @@ import * as Tone from 'tone'
 import json from './json/example.json'
 
 let data = json.data
-var sliced = data.slice(400, 700); // selected pixels from JSON
+let sliced = data.slice(400, 700); // selected pixels from JSON
 
 function getColors() {
     let increment = 0;
