@@ -1,6 +1,6 @@
 # Cosmic Oscillator
 
-Sonification of astronomical imagery in the browser using computer vision from <a href='https://opencv.org/'> OpenCV</a> and synthesizers from <a href='https://tonejs.github.io/'>ToneJS</a>.</p>
+This web application creates a [sonification of astronomical imagery](https://science.nasa.gov/mission/hubble/multimedia/sonifications) in the browser using computer vision from <a href='https://opencv.org/'> OpenCV</a> and synthesizers from <a href='https://tonejs.github.io/'>ToneJS</a>.</p>
 
 ### Click the link below to try it out:  
 Working concept: [https://jamescoledesign.github.io/cosmic-oscillator/](https://jamescoledesign.github.io/cosmic-oscillator/)
