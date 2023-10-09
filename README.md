@@ -2,8 +2,15 @@
 
 Sonification of astronomical imagery in the browser using computer vision from <a href='https://opencv.org/'> OpenCV</a> and synthesizers from <a href='https://tonejs.github.io/'>ToneJS</a>.</p>
 
-## [Click here](https://jamescoledesign.github.io/cosmic-oscillator/) to try it out.
+## [Click here](https://jamescoledesign.github.io/cosmic-oscillator/) to try it out.  
 
+![Cosmic Oscillator User Interface](./src/images/co-screenshot.png)
+
+This could be enhanced to include a way for people to generate sonifications by using a URL or uploading an image of their own. 
+
+![Analyzing image data](./src/images/pixels.png)
+
+An image captured by the James Webb Space Telescope was processed in a Jupyter Notebook, primarily by using Python and OpenCV to calculate every RGB pixel value of the image. These RGB values were exported to JSON format and then consumed by the React application to control frequency parameters of virtual synthesizers created with ToneJS.
 
 ## Available Scripts
 
