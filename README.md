@@ -11,7 +11,7 @@ This could be enhanced to include a way for people to generate sonifications by 
 
 ![Analyzing image data](./src/images/pixels.png)
 
-An [image of Rho Ophiuchi](https://webbtelescope.org/contents/media/images/2023/128/01H449193V5Q4Q6GFBKXAZ3S03) captured by the James Webb Space Telescope was processed in a Jupyter Notebook, primarily by using Python and OpenCV to calculate every RGB pixel value of the image. These RGB values were exported to JSON format and then consumed by the React application to control frequency parameters of virtual synthesizers created with ToneJS.
+An [image of Rho Ophiuchi](https://webbtelescope.org/contents/media/images/2023/128/01H449193V5Q4Q6GFBKXAZ3S03) captured by the James Webb Space Telescope was processed in a [Jupyter Notebook](./rgb/unique-rgb-vals.ipynb), primarily by using Python and OpenCV to calculate [every RGB pixel value](./rgb/all_colors.csv) of the image. These RGB values were exported to JSON format and then consumed by the React application to control frequency parameters of virtual synthesizers created with ToneJS.
 
 ## Available Scripts
 
