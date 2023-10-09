@@ -34,5 +34,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+---
 
-This was created by James Cole for the 2023 NASA Space Apps Challenge
+This was created by James Cole for the [2023 NASA Space Apps Challenge](https://www.spaceappschallenge.org/2023/find-a-team/oscillate/?tab=project)
