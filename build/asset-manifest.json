@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e06654ee.css",
-    "main.js": "/static/js/main.b770e195.js",
-    "static/js/787.4717e823.chunk.js": "/static/js/787.4717e823.chunk.js",
-    "static/media/example.png": "/static/media/example.c1c01f6b6c3e9920a248.png",
-    "index.html": "/index.html",
-    "main.e06654ee.css.map": "/static/css/main.e06654ee.css.map",
-    "main.b770e195.js.map": "/static/js/main.b770e195.js.map",
-    "787.4717e823.chunk.js.map": "/static/js/787.4717e823.chunk.js.map"
+    "main.css": "/cosmic-oscillator/static/css/main.e06654ee.css",
+    "main.js": "/cosmic-oscillator/static/js/main.fbc6b792.js",
+    "static/js/787.4717e823.chunk.js": "/cosmic-oscillator/static/js/787.4717e823.chunk.js",
+    "static/media/example.png": "/cosmic-oscillator/static/media/example.c1c01f6b6c3e9920a248.png",
+    "index.html": "/cosmic-oscillator/index.html",
+    "main.e06654ee.css.map": "/cosmic-oscillator/static/css/main.e06654ee.css.map",
+    "main.fbc6b792.js.map": "/cosmic-oscillator/static/js/main.fbc6b792.js.map",
+    "787.4717e823.chunk.js.map": "/cosmic-oscillator/static/js/787.4717e823.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e06654ee.css",
-    "static/js/main.b770e195.js"
+    "static/js/main.fbc6b792.js"
   ]
 }
