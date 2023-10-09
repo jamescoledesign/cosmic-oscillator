@@ -17,7 +17,7 @@ An [image of Rho Ophiuchi](https://webbtelescope.org/contents/media/images/2023/
 
 In the project directory, you can run:
 
-### `npm-install`
+#### `npm-install`
 
 Installs dependencies.
 
